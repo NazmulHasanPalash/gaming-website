@@ -1,0 +1,11 @@
+.carousel img{
+    border:2px ;
+    border-radius: 10px;
+    
+    }
+    .carousel{
+        background-image: url(https://image.freepik.com/free-vector/gradient-gaming-youtube-channel-art_52683-60094.jpg);
+        background-repeat: repeat-y;
+        background-size:100%;
+
+    }

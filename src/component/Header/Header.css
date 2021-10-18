@@ -1,0 +1,22 @@
+.img-style img{
+width: 100%;
+    height: 300px;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.header a{
+    text-decoration: none;
+    color:white;
+    margin: 10px;
+
+
+}
+.link{
+    background-color: black;
+}
+.header{
+    background-color: black;
+    
+}
